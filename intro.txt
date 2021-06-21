@@ -1,0 +1,27 @@
+                                                                                                                  Welcome to who wants to be a Millionaire!!
+
+**************************************************************************************************************************************************************************************************
+
+		
+                                              You will have 10 questions you need to answer correctly to win. You need to select one of the options displayed below the question.
+
+To submit the answer, select the 'submit' button below the options. For each correct answer, you will earn points corresponding to the question, and get closer to the million dollar prize.
+
+                                                       For example, Question 5 will earn 5 points, and get you up to $500,000. You can see you progress in the progress bar.
+
+
+                                                                                              If you are unable to answer a question you have the option to either:
+   
+                                                                   - SKIP → skips question and displays a new question instead. To use SKIP option select the 'skip' button.
+
+                      - 50:50 → 2 of the wrong options will disappear leaving you with a 50/50 chance of getting the question right. To use 50:50 option select the '50-50' button.
+
+                                               You can only choose these options once so use with caution. Each lifeline used will also deduct 5 points from your total score.
+
+
+                                            If you answer any question incorrectly, you will lose the game. To exit the game, click the 'exit' button at the bottom of the screen.
+
+	                                                                                                                 Good Luck!! :)
+
+
+**************************************************************************************************************************************************************************************************
